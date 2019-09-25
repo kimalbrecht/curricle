@@ -1,0 +1,67 @@
+[
+  {
+    "id": "214102",
+    "title": "Introduction to Computer Science",
+    "termName": "Fall",
+    "termYear": 2019,
+    "subjectDescription": "Computer Science",
+    "subjectAcademicOrgDescription": "Computer Science",
+    "subject": "COMPSCI",
+    "classAcademicOrgDescription": "Computer Science",
+    "component": "Lecture",
+    "externalCourseId": 152514,
+    "year": 2019.5
+  },
+  {
+    "id": "30576",
+    "title": "Introduction to Computer Science I",
+    "termName": "Fall",
+    "termYear": 2015,
+    "subjectDescription": "Computer Science",
+    "subjectAcademicOrgDescription": "Computer Science",
+    "subject": "COMPSCI",
+    "classAcademicOrgDescription": "Computer Science",
+    "component": "Lecture",
+    "externalCourseId": 152514,
+    "year": 2015.5
+  },
+  {
+    "id": "30577",
+    "title": "Introduction to Computer Science I",
+    "termName": "Fall",
+    "termYear": 2016,
+    "subjectDescription": "Computer Science",
+    "subjectAcademicOrgDescription": "Computer Science",
+    "subject": "COMPSCI",
+    "classAcademicOrgDescription": "Computer Science",
+    "component": "Lecture",
+    "externalCourseId": 152514,
+    "year": 2016.5
+  },
+  {
+    "id": "30578",
+    "title": "Introduction to Computer Science I",
+    "termName": "Fall",
+    "termYear": 2017,
+    "subjectDescription": "Computer Science",
+    "subjectAcademicOrgDescription": "Computer Science",
+    "subject": "COMPSCI",
+    "classAcademicOrgDescription": "Computer Science",
+    "component": "Lecture",
+    "externalCourseId": 152514,
+    "year": 2017.5
+  },
+  {
+    "id": "30579",
+    "title": "Introduction to Computer Science",
+    "termName": "Fall",
+    "termYear": 2018,
+    "subjectDescription": "Computer Science",
+    "subjectAcademicOrgDescription": "Computer Science",
+    "subject": "COMPSCI",
+    "classAcademicOrgDescription": "Computer Science",
+    "component": "Lecture",
+    "externalCourseId": 152514,
+    "year": 2018.5
+  }
+]

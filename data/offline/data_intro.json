@@ -1,0 +1,241 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values"
+        },
+        "updated": {
+            "$t": "2019-09-11T10:15:31.388Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "story-intro"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/d/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values?alt=json"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "fabian.dinklage"
+                },
+                "email": {
+                    "$t": "fabian.dinklage@gmail.com"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "4"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2019-09-11T10:15:31.388Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "0"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "authors: Kim Albrecht, Matthew Battles, intro-title: The two cultures in the curriculum , intro-subtitle: In 1959, British novelist C. P. Snow argued that the split between the sciences and the humanities—which he termed the \"two cultures\" of Western intellectual life—hindered progress. The argument has its critics, who have pointed out, among other things, Snow's focus on British educational system, and the rise of mass media as a \"third culture\" mediating between the two. A view of curricular data across disciplines at Harvard shows distinct patterns distinguishing course offerings in the sciences from those in the humanities. Some of these patterns, however, show how virtues of tradition and invention, consistency and change, are distributed counter-intuitively: experiment and invention thrive in the humanities, while the sciences express a marked conservatism."
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/cokwr"
+                    }
+                ],
+                "gsx$story-id": {
+                    "$t": "0"
+                },
+                "gsx$authors": {
+                    "$t": "Kim Albrecht, Matthew Battles"
+                },
+                "gsx$authors-links": {
+                    "$t": ""
+                },
+                "gsx$intro-title": {
+                    "$t": "The two cultures in the curriculum "
+                },
+                "gsx$intro-subtitle": {
+                    "$t": "In 1959, British novelist C. P. Snow argued that the split between the sciences and the humanities—which he termed the \"two cultures\" of Western intellectual life—hindered progress. The argument has its critics, who have pointed out, among other things, Snow's focus on British educational system, and the rise of mass media as a \"third culture\" mediating between the two. A view of curricular data across disciplines at Harvard shows distinct patterns distinguishing course offerings in the sciences from those in the humanities. Some of these patterns, however, show how virtues of tradition and invention, consistency and change, are distributed counter-intuitively: experiment and invention thrive in the humanities, while the sciences express a marked conservatism."
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/cpzh4"
+                },
+                "updated": {
+                    "$t": "2019-09-11T10:15:31.388Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "1"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "authors: Matthew Battles, authors-links: https://metalabharvard.github.io/people/matthew, intro-title: Book History, intro-subtitle: Book history emerges as a scholarly field in the middle of the twentieth century, as electronic mass media inspired scholars to reflect on the technical and material dimensions of communication. Book history brought  a range of existing disciplines and scholarly practices into conversation, attracting the interests of historian, literary scholars, librarians, and archivists, as well as students of new media, graphic design, and visual culture."
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/cpzh4"
+                    }
+                ],
+                "gsx$story-id": {
+                    "$t": "1"
+                },
+                "gsx$authors": {
+                    "$t": "Matthew Battles"
+                },
+                "gsx$authors-links": {
+                    "$t": "https://metalabharvard.github.io/people/matthew"
+                },
+                "gsx$intro-title": {
+                    "$t": "Book History"
+                },
+                "gsx$intro-subtitle": {
+                    "$t": "Book history emerges as a scholarly field in the middle of the twentieth century, as electronic mass media inspired scholars to reflect on the technical and material dimensions of communication. Book history brought  a range of existing disciplines and scholarly practices into conversation, attracting the interests of historian, literary scholars, librarians, and archivists, as well as students of new media, graphic design, and visual culture."
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/cre1l"
+                },
+                "updated": {
+                    "$t": "2019-09-11T10:15:31.388Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "2"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "authors: Matthew Battles, authors-links: https://metalabharvard.github.io/people/matthew, intro-title: Transcript Stories of Eliot & Stein, intro-subtitle: Gertrude Stein and T. S. Eliot: these two iconic figures were near-contemporaries in their student careers at Harvard, giving us a fascinating chance to chart the curricular roots of literary achievement, cultural influence, and curricular entanglement—not to mention varying degrees of gendered opportunity in research, learning, and intellectual ambition among college students around the turn of the last century. And by connecting these transcripts with the signals of Stein and Eliot in the latter-day curriculum, we can suggest some fascinating connections and implications."
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/cre1l"
+                    }
+                ],
+                "gsx$story-id": {
+                    "$t": "2"
+                },
+                "gsx$authors": {
+                    "$t": "Matthew Battles"
+                },
+                "gsx$authors-links": {
+                    "$t": "https://metalabharvard.github.io/people/matthew"
+                },
+                "gsx$intro-title": {
+                    "$t": "Transcript Stories of Eliot & Stein"
+                },
+                "gsx$intro-subtitle": {
+                    "$t": "Gertrude Stein and T. S. Eliot: these two iconic figures were near-contemporaries in their student careers at Harvard, giving us a fascinating chance to chart the curricular roots of literary achievement, cultural influence, and curricular entanglement—not to mention varying degrees of gendered opportunity in research, learning, and intellectual ambition among college students around the turn of the last century. And by connecting these transcripts with the signals of Stein and Eliot in the latter-day curriculum, we can suggest some fascinating connections and implications."
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/chk2m"
+                },
+                "updated": {
+                    "$t": "2019-09-11T10:15:31.388Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "3"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "authors: Matthew Battles, intro-title: African American Transcripts, intro-subtitle: Test Version 01"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/1/public/values/chk2m"
+                    }
+                ],
+                "gsx$story-id": {
+                    "$t": "3"
+                },
+                "gsx$authors": {
+                    "$t": "Matthew Battles"
+                },
+                "gsx$authors-links": {
+                    "$t": ""
+                },
+                "gsx$intro-title": {
+                    "$t": "African American Transcripts"
+                },
+                "gsx$intro-subtitle": {
+                    "$t": "Test Version 01"
+                }
+            }
+        ]
+    }
+}

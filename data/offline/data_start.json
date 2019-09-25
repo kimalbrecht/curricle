@@ -1,0 +1,103 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values"
+        },
+        "updated": {
+            "$t": "2019-09-11T10:15:31.388Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "start"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/d/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values?alt=json"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "fabian.dinklage"
+                },
+                "email": {
+                    "$t": "fabian.dinklage@gmail.com"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "1"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2019-09-11T10:15:31.388Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Curricle Lens"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "subtitle: The history of harvards academia unveiled, p1: Visualized, annotated, connected: what should the course catalog look like in the 21st century? Leveraging data and design in a post-disciplinary era."
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values/cokwr"
+                    }
+                ],
+                "gsx$title": {
+                    "$t": "Curricle Lens"
+                },
+                "gsx$subtitle": {
+                    "$t": "The history of harvards academia unveiled"
+                },
+                "gsx$p1": {
+                    "$t": "Visualized, annotated, connected: what should the course catalog look like in the 21st century? Leveraging data and design in a post-disciplinary era."
+                }
+            }
+        ]
+    }
+}

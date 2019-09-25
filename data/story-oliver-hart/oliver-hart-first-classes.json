@@ -1,0 +1,67 @@
+[
+  {
+    "id": "69985",
+    "title": "Contract Theory",
+    "termName": "Fall",
+    "termYear": 1993,
+    "subjectDescription": "Economics",
+    "subjectAcademicOrgDescription": "Economics",
+    "subject": "ECON",
+    "classAcademicOrgDescription": "Economics",
+    "component": "Lecture",
+    "externalCourseId": 110708,
+    "year": 1993.5
+  },
+  {
+    "id": "375459",
+    "title": "Advanced Theory Workshop",
+    "termName": "Fall",
+    "termYear": 1993,
+    "subjectDescription": "Economics",
+    "subjectAcademicOrgDescription": "Economics",
+    "subject": "ECON",
+    "classAcademicOrgDescription": "Economics",
+    "component": "Lecture",
+    "externalCourseId": 118369,
+    "year": 1993.5
+  },
+  {
+    "id": "379581",
+    "title": "Law and Economics: Research Seminar",
+    "termName": "Fall",
+    "termYear": 1993,
+    "subjectDescription": "Economics",
+    "subjectAcademicOrgDescription": "Economics",
+    "subject": "ECON",
+    "classAcademicOrgDescription": "Economics",
+    "component": "Seminar",
+    "externalCourseId": 113830,
+    "year": 1993.5
+  },
+  {
+    "id": "71394",
+    "title": "Critical Seminar in Economic Theory",
+    "termName": "Fall",
+    "termYear": 1993,
+    "subjectDescription": "Economics",
+    "subjectAcademicOrgDescription": "Economics",
+    "subject": "ECON",
+    "classAcademicOrgDescription": "Economics",
+    "component": "Seminar",
+    "externalCourseId": 109297,
+    "year": 1993.5
+  },
+  {
+    "id": "396678",
+    "title": "Topics in Organizations",
+    "termName": "Fall",
+    "termYear": 1993,
+    "subjectDescription": "Economics",
+    "subjectAcademicOrgDescription": "Economics",
+    "subject": "ECON",
+    "classAcademicOrgDescription": "Economics",
+    "component": "Lecture",
+    "externalCourseId": 117851,
+    "year": 1993.5
+  }
+]

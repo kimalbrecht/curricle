@@ -1,0 +1,44 @@
+[
+ {
+   "id": 1,
+   "title": "Gov 295 - Nationalism",
+   "termName": "Fall",
+   "termYear": 1958,
+   "subjectDescription": "Government",
+   "subjectAcademicOrgDescription": "Government",
+   "subject": "GOV",
+   "classAcademicOrgDescription": "Government",
+   "component": "seminar",
+   "externalCourseId": 100,
+   "year": 1958,
+   "courseDecriptionLong": "This seminar deals with the problems of nationalism and the nation-state inboth theory and practice. Special attention will be paid to the rise ofnationalism in recent decades in Asia and Africa as compared with theolder nationalisms of Europe. Problems dealt with include the significanceof the doctrine of self-determination, the relation between nationalism anddemocracy, and the present forces leading away from nationalism"
+ },
+ {
+   "id": 2,
+   "title": "Soc Rel 108a - Peoples and Cultures of Eastern Africa",
+   "termName": "Spring",
+   "termYear": 1959,
+   "subjectDescription": "Social Relations",
+   "subjectAcademicOrgDescription": "Social Relations",
+   "subject": "SOCREL",
+   "classAcademicOrgDescription": "Social Relations",
+   "component": "lecture",
+   "externalCourseId": 101,
+   "year": 1959,
+   "courseDecriptionLong": "The ethno-linguistic groups of Eastern Africa from the Upper Nile to theZambezi will be examined, with special treatment of typical examples ineach group. Emphasis will be given to kinship, economic, and_ politicalsystems, and to modern social change"
+ },
+ {
+   "id": 3,
+   "title": "Anthropology 115a - Culture History of the Old World: Pre- and Proto-historic and Early Historic Cultures",
+   "termName": "Fall",
+   "termYear": 1958,
+   "subjectDescription": "Anthropology",
+   "subjectAcademicOrgDescription": "Anthropology",
+   "subject": "ANTH",
+   "classAcademicOrgDescription": "Anthropology",
+   "component": "lecture",
+   "externalCourseId": 102,
+   "year": 1958,
+   "courseDecriptionLong": "A survey of the prehistoric and early historic cultures of Europe, Asia, andAfrica. This course serves as an introduction to the more detailed areacourses dealing with Old World archaeology."
+ }
+]

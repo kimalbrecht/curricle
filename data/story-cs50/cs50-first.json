@@ -1,0 +1,18 @@
+[
+  {
+    "id": "234001",
+    "title": "Introduction to Computer Science I\t",
+    "termName": "Fall",
+    "termYear": 1990,
+    "subjectDescription": "Computer Science",
+    "subjectAcademicOrgDescription": "Computer Science",
+    "subject": "COMPSCI",
+    "classAcademicOrgDescription": "Paulson School of Engineering and Applied Sciences",
+    "component": "Lecture/Lab",
+    "externalCourseId": 152514,
+    "year": 1990.5,
+    "groupID": "Lecture/Lab",
+    "yPos": 58,
+    "yPosFull": 79.9278350515464
+  }
+]
