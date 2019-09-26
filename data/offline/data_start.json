@@ -9,7 +9,7 @@
             "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values"
         },
         "updated": {
-            "$t": "2019-09-11T10:15:31.388Z"
+            "$t": "2019-09-25T21:23:20.408Z"
         },
         "category": [
             {
@@ -65,7 +65,7 @@
                     "$t": "https://spreadsheets.google.com/feeds/list/1uAHt2suCPt1JMYhdG-t-uqPuxNa7QFEH-1zWiE0f2Ds/3/public/values/cokwr"
                 },
                 "updated": {
-                    "$t": "2019-09-11T10:15:31.388Z"
+                    "$t": "2019-09-25T21:23:20.408Z"
                 },
                 "category": [
                     {
@@ -79,7 +79,7 @@
                 },
                 "content": {
                     "type": "text",
-                    "$t": "subtitle: The history of harvards academia unveiled, p1: Visualized, annotated, connected: what should the course catalog look like in the 21st century? Leveraging data and design in a post-disciplinary era."
+                    "$t": "subtitle: Revealing Stories of the Harvard Curriculum, p1: A research project of metaLAB (at) Harvard, Curricle Lens uses data narration to explore the conversational nature of the college curriculum. With comprehensive data on more than three decades of course offerings, we're able to detect historical trends. Shifts in course titles and formats allow us to trace the signals of topics, issues, and meanings. And by collating these data shifts with historical events, we can gauge the pulse of external events—social movements; musical genres; literary publications—that shape and redirect the ordered progress of college teaching and learning. Our data include the contents of online Harvard course catalogues from 1990 to the present, archived by the office of the Registrar, with data from earlier decades we've developed from archival sources. Curricle Lens offers a series of data stories that visualize discrete patterns in these data over time, enfolded with and enlivened by essays that ground and contextualize the data with archival material, storytelling, and argument. These stories are provocations to further exploration. The curriculum takes surprising turns throughout its journey—and we haven't found all the twists yet. Curricle Lens is an invitation: to join us in exploring these and other stories of teaching and learning, at Harvard and beyond. "
                 },
                 "link": [
                     {
@@ -92,10 +92,10 @@
                     "$t": "Curricle Lens"
                 },
                 "gsx$subtitle": {
-                    "$t": "The history of harvards academia unveiled"
+                    "$t": "Revealing Stories of the Harvard Curriculum"
                 },
                 "gsx$p1": {
-                    "$t": "Visualized, annotated, connected: what should the course catalog look like in the 21st century? Leveraging data and design in a post-disciplinary era."
+                    "$t": "A research project of metaLAB (at) Harvard, Curricle Lens uses data narration to explore the conversational nature of the college curriculum. With comprehensive data on more than three decades of course offerings, we're able to detect historical trends. Shifts in course titles and formats allow us to trace the signals of topics, issues, and meanings. And by collating these data shifts with historical events, we can gauge the pulse of external events—social movements; musical genres; literary publications—that shape and redirect the ordered progress of college teaching and learning. Our data include the contents of online Harvard course catalogues from 1990 to the present, archived by the office of the Registrar, with data from earlier decades we've developed from archival sources. Curricle Lens offers a series of data stories that visualize discrete patterns in these data over time, enfolded with and enlivened by essays that ground and contextualize the data with archival material, storytelling, and argument. These stories are provocations to further exploration. The curriculum takes surprising turns throughout its journey—and we haven't found all the twists yet. Curricle Lens is an invitation: to join us in exploring these and other stories of teaching and learning, at Harvard and beyond. "
                 }
             }
         ]
